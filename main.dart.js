@@ -46321,8 +46321,8 @@ F.tr.prototype={
 Mn(){this.aW(new F.Vu(this))},
 M(a,b){var s,r=null
 this.a.toString
-s=L.a_E("Flutter Demo Home Page",r)
-return new M.qz(new E.o0(s,new E.Ey(r,r,1/0,56),r),T.It(T.aaV(H.a([C.Ha,L.a_E(""+this.d,K.bL(b).R.d)],t.p),C.mI),r,r),E.a2p(C.y7,!1,this.gMm(),"Increment"),r)}}
+s=L.a_E("Flutter \u30c7\u30e2 \u30db\u30fc\u30e0 \u30da\u30fc\u30b8",r)
+return new M.qz(new E.o0(s,new E.Ey(r,r,1/0,56),r),T.It(T.aaV(H.a([C.Ha,L.a_E(""+this.d,K.bL(b).R.d)],t.p),C.mI),r,r),E.a2p(C.y7,!1,this.gMm(),"\u30ab\u30a6\u30f3\u30c8\u30a2\u30c3\u30d7"),r)}}
 F.Vu.prototype={
 $0(){++this.a.d},
 $S:0}
@@ -50027,7 +50027,7 @@ C.FL=new A.n(!1,null,null,null,null,null,14,C.aq,null,null,null,C.t,null,null,nu
 C.Et=new A.n(!1,null,null,null,null,null,10,C.z,null,1.5,null,C.t,null,null,null,null,null,null,null,null,null,"englishLike overline 2014",null,null,null)
 C.H9=new R.cx(C.Fg,C.Fh,C.Fi,C.Fj,C.Fk,C.F9,C.F2,C.FV,C.FW,C.FX,C.EJ,C.FL,C.Et)
 C.rZ=new U.AE("TextWidthBasis.longestLine")
-C.Ha=new L.r7("You have pushed the button this many times:",null,null)
+C.Ha=new L.r7("\u30dc\u30bf\u30f3\u3092\u62bc\u3057\u305f\u56de\u6570:",null,null)
 C.JF=new S.SY("ThemeMode.system")
 C.Hb=new M.rh(null)
 C.cz=new P.mR(0,"TileMode.clamp")
